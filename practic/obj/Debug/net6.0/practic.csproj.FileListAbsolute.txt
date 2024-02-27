@@ -1,0 +1,4 @@
+C:\Users\sirajnm\source\repos\practic\practic\obj\Debug\net6.0\practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirajnm\source\repos\practic\practic\obj\Debug\net6.0\practic.AssemblyInfoInputs.cache
+C:\Users\sirajnm\source\repos\practic\practic\obj\Debug\net6.0\practic.AssemblyInfo.cs
+C:\Users\sirajnm\source\repos\practic\practic\obj\Debug\net6.0\practic.csproj.CoreCompileInputs.cache
